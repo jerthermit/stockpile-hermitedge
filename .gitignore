@@ -1,0 +1,93 @@
+# Security and environment
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+credentials.json
+*service-account*.json
+*credentials*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.hypothesis/
+
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Runtime databases and uploaded media
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3
+
+.stockpile-product-images/
+backend/.stockpile-product-images/
+uploads/
+
+# Node and Next.js
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+.vercel/
+.cache/
+
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Frontend test output
+coverage/
+playwright-report/
+test-results/
+
+# Runtime files
+*.log
+*.pid
+logs/
+tmp/
+temp/
+
+# macOS and Windows
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo

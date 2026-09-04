@@ -1,0 +1,9 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic==2.6.1
+python-dotenv==1.0.1
+python-multipart==0.0.9
+psycopg2-binary==2.9.9
+google-auth==2.35.0
+requests==2.32.3
+Pillow==12.3.0

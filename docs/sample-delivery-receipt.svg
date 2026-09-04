@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1800" viewBox="0 0 1400 1800">
+  <rect width="1400" height="1800" fill="#ebe7df"/>
+  <rect x="90" y="70" width="1220" height="1660" rx="8" fill="#fffefa"/>
+  <rect x="90" y="70" width="18" height="1660" fill="#f47721"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#18150f">
+    <text x="170" y="170" font-size="26" font-weight="700" letter-spacing="4">SAN NICOLAS TEXTILE SUPPLY</text>
+    <text x="170" y="214" font-size="20" fill="#6e685f">Synthetic recording fixture</text>
+    <text x="1180" y="164" font-size="20" font-weight="700" text-anchor="end" fill="#f47721">SAMPLE</text>
+
+    <line x1="170" y1="270" x2="1230" y2="270" stroke="#18150f" stroke-width="3"/>
+
+    <text x="170" y="355" font-size="54" font-weight="800" letter-spacing="-1">DELIVERY RECEIPT</text>
+
+    <text x="170" y="445" font-size="18" font-weight="700" fill="#6e685f" letter-spacing="2">REFERENCE</text>
+    <text x="170" y="483" font-size="29" font-weight="700">DR-1847</text>
+
+    <text x="575" y="445" font-size="18" font-weight="700" fill="#6e685f" letter-spacing="2">DELIVERY DATE</text>
+    <text x="575" y="483" font-size="29" font-weight="700">September 3, 2026</text>
+
+    <text x="980" y="445" font-size="18" font-weight="700" fill="#6e685f" letter-spacing="2">RECEIVING BAY</text>
+    <text x="980" y="483" font-size="29" font-weight="700">WH-MNL-REC</text>
+
+    <rect x="170" y="560" width="1060" height="70" fill="#18150f"/>
+    <text x="200" y="604" font-size="19" font-weight="700" fill="#fffefa">ITEM</text>
+    <text x="740" y="604" font-size="19" font-weight="700" fill="#fffefa">BARCODE</text>
+    <text x="1110" y="604" font-size="19" font-weight="700" fill="#fffefa" text-anchor="end">QTY</text>
+    <text x="1200" y="604" font-size="19" font-weight="700" fill="#fffefa" text-anchor="end">UNIT</text>
+
+    <g>
+      <rect x="170" y="630" width="1060" height="190" fill="#fffefa" stroke="#d8d1c6"/>
+      <text x="200" y="688" font-size="18" font-weight="700" fill="#f47721">01</text>
+      <text x="200" y="738" font-size="27" font-weight="700">Cotton Poplin 60 in · White</text>
+      <text x="200" y="778" font-size="20" fill="#6e685f">SKU TXT-POP-WHT-60</text>
+      <text x="740" y="738" font-size="25" font-family="Courier New, monospace">2908170000074</text>
+      <text x="1110" y="738" font-size="30" font-weight="700" text-anchor="end">18</text>
+      <text x="1200" y="738" font-size="23" text-anchor="end">roll</text>
+    </g>
+
+    <g>
+      <rect x="170" y="820" width="1060" height="190" fill="#faf7f1" stroke="#d8d1c6"/>
+      <text x="200" y="878" font-size="18" font-weight="700" fill="#f47721">02</text>
+      <text x="200" y="928" font-size="27" font-weight="700">Cotton Poplin 60 in · Black</text>
+      <text x="200" y="968" font-size="20" fill="#6e685f">SKU TXT-POP-BLK-60</text>
+      <text x="740" y="928" font-size="25" font-family="Courier New, monospace">2908170000081</text>
+      <text x="1110" y="928" font-size="30" font-weight="700" text-anchor="end">12</text>
+      <text x="1200" y="928" font-size="23" text-anchor="end">roll</text>
+    </g>
+
+    <g>
+      <rect x="170" y="1010" width="1060" height="190" fill="#fffefa" stroke="#d8d1c6"/>
+      <text x="200" y="1068" font-size="18" font-weight="700" fill="#f47721">03</text>
+      <text x="200" y="1118" font-size="27" font-weight="700">Oxford Shirting 60 in · Sky Blue</text>
+      <text x="200" y="1158" font-size="20" fill="#6e685f">SKU TXT-OXF-BLU-60</text>
+      <text x="740" y="1118" font-size="25" font-family="Courier New, monospace">2908170000166</text>
+      <text x="1110" y="1118" font-size="30" font-weight="700" text-anchor="end">10</text>
+      <text x="1200" y="1118" font-size="23" text-anchor="end">roll</text>
+    </g>
+
+    <line x1="170" y1="1290" x2="1230" y2="1290" stroke="#18150f" stroke-width="2"/>
+
+    <text x="170" y="1360" font-size="18" font-weight="700" fill="#6e685f" letter-spacing="2">TOTAL RECEIVED</text>
+    <text x="170" y="1410" font-size="40" font-weight="800">40 rolls</text>
+
+    <text x="760" y="1360" font-size="18" font-weight="700" fill="#6e685f" letter-spacing="2">RECEIVED BY</text>
+    <text x="760" y="1410" font-size="31" font-weight="700">Sam Patel</text>
+    <text x="760" y="1450" font-size="20" fill="#6e685f">Badge RCV-3157</text>
+
+    <rect x="170" y="1530" width="1060" height="95" fill="#f5efe6"/>
+    <text x="200" y="1570" font-size="17" font-weight="700" fill="#6e685f" letter-spacing="2">NOTE</text>
+    <text x="200" y="1603" font-size="21">Counted at receiving. Assign stock to the listed racks after confirmation.</text>
+
+    <text x="170" y="1680" font-size="16" fill="#8f887d">Synthetic sample · No client, supplier, or production data</text>
+  </g>
+</svg>
